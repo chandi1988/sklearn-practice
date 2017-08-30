@@ -19,3 +19,8 @@
 ### 決定木
 
 - decision_tree.py
+
+### ランダムフォレスト
+
+- random_forest.py
+
