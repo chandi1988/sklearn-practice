@@ -11,3 +11,7 @@
 ### ロジスティック回帰
 
 - logistic_regression.py
+
+### SVM (線形SVM・カーネルSVM)
+
+- svm.py
