@@ -15,3 +15,7 @@
 ### SVM (線形SVM・カーネルSVM)
 
 - svm.py
+
+### 決定木
+
+- decision_tree.py
